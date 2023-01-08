@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/415.3bbba329.chunk.js","mappings":"2JAMA,UANa,WACT,OACI,2FAEP,C","sources":["pages/Home.jsx"],"sourcesContent":["const Home = () => {\n    return (\n        <p>Welcome to our Phonebook. We hope that you will enjoy using it! </p>\n    )\n}\n\nexport default Home;"],"names":[],"sourceRoot":""}
